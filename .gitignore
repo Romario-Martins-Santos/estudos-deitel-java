@@ -1,3 +1,4 @@
 *Prov*
 Prov.java
-.metadata/
+.metadata/*.class
+bin/
