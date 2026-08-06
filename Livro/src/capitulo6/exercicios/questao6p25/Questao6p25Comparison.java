@@ -1,3 +1,9 @@
+/* Para medir e comparar a diferença de desempenho entre os dois métodos no Eclipse, 
+ * podemos utilizar System.nanoTime(). Diferente do currentTimeMillis(), o nanoTime() mede o tempo 
+ * em nanossegundos (1 milissegundo = 1.000.000 nanossegundos), o que nos dá uma precisão perfeita 
+ * para capturar diferenças de milésimos de segundo. * 
+ */
+
 package capitulo6.exercicios.questao6p25;
 
 public class Questao6p25Comparison {
